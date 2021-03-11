@@ -4,7 +4,7 @@ function happyHolidays(String) {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(String) {
+function happyHolidaysTo(name = Thyda) {
   return `Happy holidays, ${name}!`
 }
 
