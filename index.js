@@ -13,5 +13,5 @@ function happyCustomHolidayTo(String) {
 }
 
 function holidayCountdown(string) {
-  return `It's ${days} days until ${holiday}!`
+  console.log(`It's ${days} days until ${holiday}!`)
 }
