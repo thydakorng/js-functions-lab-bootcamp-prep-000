@@ -12,6 +12,6 @@ function happyCustomHolidayTo(holiday = Christmas, name = Thyda) {
   return `Happy ${holiday}, ${name}!`
 }
 
-function holidayCountdown(holiday = Thanksgiving, days = '20') {
+function holidayCountdown(holiday = "Mother's Day", days = '20') {
   console.log(`It's ${days} days until ${holiday}!`)
 }
