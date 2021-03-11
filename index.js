@@ -8,7 +8,7 @@ function happyHolidaysTo(name = Thyda) {
   return `Happy holidays, ${name}!`
 }
 
-function happyCustomHolidayTo(String) {
+function happyCustomHolidayTo(holiday = Christmas, name = Thyda) {
   return `Happy ${holiday}, ${name}!`
 }
 
